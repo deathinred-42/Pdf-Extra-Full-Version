@@ -243,4 +243,4 @@ This repository serves as the official landing page for PDF Extra. The software 
 **Get the most recent version of PDF Extra today!**
 
 ---
-**Last updated:** 2026-10-04 19:17:25 UTC
+**Last updated:** 2026-10-04 22:51:14 UTC
